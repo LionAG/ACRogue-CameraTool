@@ -3,7 +3,7 @@
 ### A free camera mod for Assassin's Creed Rogue
 
 ## Requirements
-- Ubisoft Connect game version (1.07)
+- Ubisoft Connect game version (1.1.0)
 - Mod Loader ([Download Here](https://github.com/LionAG/ScriptEngine/releases/latest))
 
 ## Features
